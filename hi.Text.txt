@@ -1,0 +1,2 @@
+git commands:
+git config --global user.name "git_hub_username"
